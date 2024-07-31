@@ -387,6 +387,13 @@ img.pull-left {
 }
 
 /**
+* Cards
+**/
+.card {
+	margin-bottom: 20px;
+  }
+
+/**
  * block grid paddings - (_document-setup.scss) 
  * -------------------------------------------------------------------
  */
